@@ -15,7 +15,7 @@ Este e-book tem como objetivo simular a criação de um treinamento para um corr
 ## 🚀 Resultados
 O conteúdo apresenta um processo completo de treinamento para uma maratona, com o objetivo de demonstrar todo o potencial e a capacidade da Inteligência Artificial. Ressaltamos que os treinos descritos são apenas simulações e que, no caso de atividades físicas, o acompanhamento e a orientação de um profissional qualificado são indispensáveis para garantir segurança e melhores resultados.
 
-
+**[BAIXE O EBOOK](https://drive.google.com/file/d/1TlNmzBf1bEnHM4leuMKS7dzyMCXw0NWa/view?usp=sharing)**
 
 ## 💭 Reflexão
 A elaboração deste e-book proporcionou uma experiência enriquecedora, evidenciando o potencial criativo das inteligências artificiais e as diversas formas como podem ser aplicadas em diferentes cenários.
